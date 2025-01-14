@@ -10,12 +10,12 @@ A project to learning how to create a REST API with NodeJS with framework Expres
 # How to running
 Install Dependencies
 ```bash
-$ npm install
+npm install
 ```
 
 Running Application
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 # Feature
