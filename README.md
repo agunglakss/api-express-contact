@@ -19,10 +19,10 @@ npm run dev
 ```
 
 # Feature
-- [ ] Create Contact
+- [ x ] Create Contact
 - [ ] Update Contact
 - [ ] Delete Contact
-- [ ] List Contact
+- [ x ] List Contact
 - [ ] Register User
 - [ ] Log in User
 - [ ] Log out User
