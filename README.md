@@ -2,7 +2,7 @@
 This is a project to learning how to create a REST API with NodeJS with framework ExpressJS
 
 # Feature
-[] Create Contact
+[x] Create Contact
 [] Update Contact
 [] Delete Contact
 [] List Contact
