@@ -8,8 +8,13 @@ A project to learning how to create a REST API with NodeJS with framework Expres
 - Code Editor `Cursor`
 
 # How to running
-`npm install`
-`npm run dev`
+```bash
+$ npm install
+```
+
+```bash
+$ npm run dev
+```
 
 # Feature
 - [ ] Create Contact
