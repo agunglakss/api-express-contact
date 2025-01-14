@@ -7,6 +7,10 @@ A project to learning how to create a REST API with NodeJS with framework Expres
 - Express `^4.21.2`
 - Code Editor `Cursor`
 
+# How to running
+`npm install`
+`npm run dev`
+
 # Feature
 - [ ] Create Contact
 - [ ] Update Contact
