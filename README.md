@@ -8,10 +8,12 @@ A project to learning how to create a REST API with NodeJS with framework Expres
 - Code Editor `Cursor`
 
 # How to running
+Install Dependencies
 ```bash
 $ npm install
 ```
 
+Running Application
 ```bash
 $ npm run dev
 ```
