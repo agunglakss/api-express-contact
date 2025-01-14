@@ -2,13 +2,13 @@
 This is a project to learning how to create a REST API with NodeJS with framework ExpressJS
 
 # Feature
-[x] Create Contact
-[] Update Contact
-[] Delete Contact
-[] List Contact
-[] Register User
-[] Log in User
-[] Log out User
+- [] Create Contact
+- [] Update Contact
+- [] Delete Contact
+- [] List Contact
+- [] Register User
+- [] Log in User
+- [] Log out User
 
 # Goal
 Can manage data contact based on user
