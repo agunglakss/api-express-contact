@@ -1,5 +1,11 @@
 # Contact API
-This is a project to learning how to create a REST API with NodeJS with framework ExpressJS
+A project to learning how to create a REST API with NodeJS with framework ExpressJS
+
+# Tools
+- NodeJS `v22.5.1`
+- NPM `10.8.2`
+- Express `^4.21.2`
+- Code Editor `Cursor`
 
 # Feature
 - [ ] Create Contact
